@@ -2,7 +2,7 @@
 Angel Villamil Grupo 1 Scrum Master
 ## Pagina que nos guiamos de Temu
 ![image](https://github.com/user-attachments/assets/d9048094-e7bd-4b87-88a9-508bbd86ee0e)
-### URL: https://www.temu.com/ec/wwentixiedian-m-634418213788095.html?refer_page_el_sn=238910&_x_vst_scene=adg&_x_ads_channel=bing&_x_ads_sub_channel=search&_x_ads_account=176711043&_x_ads_set=520974725&_x_ads_id=1329311935832223&_x_ads_creative_id=83082224222684&_x_ns_source=o&_x_ns_msclkid=4b923056334311c9e49d5753fe118458&_x_ns_match_type=e&_x_ns_bid_match_type=be&_x_ns_query=%20temu&_x_ns_keyword=Temu&_x_ns_device=c&_x_ns_targetid=kwd-83083083400082%3Aloc-56&_x_ns_extensionid=&_x_sessn_id=k3rq4ongls&refer_page_name=home&refer_page_id=10005_1728433867759_ia808t8p6s&refer_page_sn=10005&no_cache_id=kjfex
+### URL: https://shorturl.at/DEB70
 
 ## Comparación Estricta 
 La comparación estricta en JavaScript compara tanto el valor como el tipo de dato de dos operandos. 
